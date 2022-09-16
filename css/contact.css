@@ -1,0 +1,43 @@
+body {
+    text-align: center;
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
+
+hr {
+    border-top: 3px dashed #668ba4;
+    border-radius: 1px;
+    clear: both;
+    margin: 0;
+}
+
+.top {
+    padding: 2%;
+    background-color: lightgrey;
+    position: relative;
+}
+
+.column {
+    display: inline-block;
+}
+
+.left{
+    float: left;
+    text-align: right;
+    padding-left: 40%;
+}
+
+.right {
+    float: right;
+    padding-right: 30%;
+    padding-top: 1%;
+    text-align: left;
+}
